@@ -1,0 +1,124 @@
+2020-02-24 18:13:09,061 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-24 18:13:09,149 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-24 18:13:15,452 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-24 18:13:15,909 - nonCommerce - INFO - ********* Started Login Process ************
+2020-02-24 18:13:39,790 - nonCommerce - INFO - ********* Adding New Customer ************
+2020-02-24 18:13:39,791 - nonCommerce - INFO - ********* Providing Customer Details ************
+2020-02-24 18:13:52,776 - nonCommerce - INFO - ********* Saving Customer Details ************
+2020-02-24 18:13:57,246 - nonCommerce - INFO - ********* Closing Browser ************
+2020-02-24 18:14:04,322 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-24 18:14:04,326 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-24 18:14:10,414 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-24 18:14:11,229 - nonCommerce - INFO - ********* Started Login Process ************
+2020-02-24 18:14:29,761 - nonCommerce - INFO - ********* Searching Customer Details by using Email Id ************
+2020-02-24 18:14:36,031 - nonCommerce - INFO - ********* Closing Browser ************
+2020-02-24 18:14:42,850 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-24 18:14:42,856 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-24 18:14:49,032 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-24 18:14:49,659 - nonCommerce - INFO - ********* Started Login Process ************
+2020-02-24 18:15:06,983 - nonCommerce - INFO - ********* Searching Customer Details by using Name ************
+2020-02-24 18:15:12,727 - nonCommerce - INFO - ********* Closing Browser ************
+2020-02-24 18:15:19,814 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-24 18:15:19,816 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-24 18:15:26,934 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-24 18:15:27,363 - nonCommerce - INFO - ********* Started Login Process ************
+2020-02-24 18:15:34,011 - nonCommerce - INFO - ********* Login Passed ************
+2020-02-24 18:15:34,012 - nonCommerce - INFO - ********* Click in LogOut Link ************
+2020-02-24 18:15:41,217 - nonCommerce - INFO - ********* Login Passed ************
+2020-02-24 18:15:41,218 - nonCommerce - INFO - ********* Closing Browser ************
+2020-02-24 18:15:47,665 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-24 18:15:47,667 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-24 18:15:53,151 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-24 18:15:53,521 - nonCommerce - INFO - ********* Started Login Process ************
+2020-02-24 18:15:59,997 - nonCommerce - INFO - ********* Login Passed ************
+2020-02-24 18:15:59,998 - nonCommerce - INFO - ********* Click in LogOut Link ************
+2020-02-24 18:16:05,304 - nonCommerce - INFO - ********* Login Passed ************
+2020-02-24 18:16:05,306 - nonCommerce - INFO - ********* Closing Browser ************
+2020-02-24 18:16:11,835 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-24 18:16:11,838 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-24 18:16:17,982 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-24 18:16:18,371 - nonCommerce - INFO - ********* Started Login Process ************
+2020-02-24 18:16:19,888 - nonCommerce - INFO - ********* Login Failed ************
+2020-02-25 13:14:28,815 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-25 13:14:29,369 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-25 13:14:32,379 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-25 13:14:32,713 - nonCommerce - INFO - ********* Started Login Process ************
+2020-02-25 13:14:42,148 - nonCommerce - INFO - ********* Login Passed ************
+2020-02-25 13:14:42,151 - nonCommerce - INFO - ********* Click in LogOut Link ************
+2020-02-25 13:14:49,022 - nonCommerce - INFO - ********* Login Passed ************
+2020-02-25 13:14:49,025 - nonCommerce - INFO - ********* Closing Browser ************
+2020-02-25 13:14:59,903 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-25 13:14:59,916 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-25 13:15:02,044 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-25 13:15:02,192 - nonCommerce - INFO - ********* Started Login Process ************
+2020-02-25 13:15:14,610 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-25 13:15:14,622 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-25 13:15:16,498 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-25 13:15:16,656 - nonCommerce - INFO - ********* Started Login Process ************
+2020-02-25 13:15:17,686 - nonCommerce - INFO - ********* Login Failed ************
+2020-02-25 13:17:21,815 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-25 13:17:22,060 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-25 13:17:23,523 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-25 13:17:26,782 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-25 13:17:26,793 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-25 13:17:26,898 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-25 13:17:29,332 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-25 13:17:29,344 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-25 13:17:29,507 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-25 14:19:41,981 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-25 14:19:42,153 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-25 14:19:50,021 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-25 14:19:50,379 - nonCommerce - INFO - ********* Started Login Process ************
+2020-02-25 14:20:15,040 - nonCommerce - INFO - ********* Adding New Customer ************
+2020-02-25 14:20:15,041 - nonCommerce - INFO - ********* Providing Customer Details ************
+2020-02-25 14:20:27,844 - nonCommerce - INFO - ********* Saving Customer Details ************
+2020-02-25 14:20:33,345 - nonCommerce - INFO - ********* Closing Browser ************
+2020-02-25 14:20:39,557 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-25 14:20:39,574 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-25 14:20:46,717 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-25 14:20:47,078 - nonCommerce - INFO - ********* Started Login Process ************
+2020-02-25 14:20:56,312 - nonCommerce - INFO - ********* Login Passed ************
+2020-02-25 14:20:56,314 - nonCommerce - INFO - ********* Click in LogOut Link ************
+2020-02-25 14:21:02,535 - nonCommerce - INFO - ********* Login Passed ************
+2020-02-25 14:21:02,539 - nonCommerce - INFO - ********* Closing Browser ************
+2020-02-25 14:23:23,646 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-25 14:23:23,807 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-25 14:23:31,459 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-25 14:23:31,826 - nonCommerce - INFO - ********* Started Login Process ************
+2020-02-25 14:23:52,318 - nonCommerce - INFO - ********* Adding New Customer ************
+2020-02-25 14:23:52,318 - nonCommerce - INFO - ********* Providing Customer Details ************
+2020-02-25 14:24:04,999 - nonCommerce - INFO - ********* Saving Customer Details ************
+2020-02-25 14:24:10,351 - nonCommerce - INFO - ********* Closing Browser ************
+2020-02-25 14:24:16,541 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-25 14:24:16,548 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-25 14:24:23,793 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-25 14:24:24,120 - nonCommerce - INFO - ********* Started Login Process ************
+2020-02-25 14:24:37,525 - nonCommerce - INFO - ********* Searching Customer Details by using Email Id ************
+2020-02-25 14:24:43,332 - nonCommerce - INFO - ********* Closing Browser ************
+2020-02-25 14:24:49,581 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-25 14:24:49,587 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-25 14:24:56,871 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-25 14:24:57,211 - nonCommerce - INFO - ********* Started Login Process ************
+2020-02-25 14:25:14,537 - nonCommerce - INFO - ********* Searching Customer Details by using Name ************
+2020-02-25 14:25:20,315 - nonCommerce - INFO - ********* Closing Browser ************
+2020-02-25 14:25:26,512 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-25 14:25:26,519 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-25 14:25:34,794 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-25 14:25:35,129 - nonCommerce - INFO - ********* Started Login Process ************
+2020-02-25 14:25:44,165 - nonCommerce - INFO - ********* Login Passed ************
+2020-02-25 14:25:44,167 - nonCommerce - INFO - ********* Click in LogOut Link ************
+2020-02-25 14:25:49,482 - nonCommerce - INFO - ********* Login Passed ************
+2020-02-25 14:25:49,483 - nonCommerce - INFO - ********* Closing Browser ************
+2020-02-25 14:25:55,692 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-25 14:25:55,701 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-25 14:26:03,424 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-25 14:26:03,742 - nonCommerce - INFO - ********* Started Login Process ************
+2020-02-25 14:26:11,989 - nonCommerce - INFO - ********* Login Passed ************
+2020-02-25 14:26:11,991 - nonCommerce - INFO - ********* Click in LogOut Link ************
+2020-02-25 14:26:18,521 - nonCommerce - INFO - ********* Login Passed ************
+2020-02-25 14:26:18,522 - nonCommerce - INFO - ********* Closing Browser ************
+2020-02-25 14:26:24,696 - nonCommerce - INFO - ********* Launching Browser ************
+2020-02-25 14:26:24,708 - nonCommerce - INFO - ********* Opening URL ************
+2020-02-25 14:26:31,909 - nonCommerce - INFO - ********* Providing LOGIN Details ************
+2020-02-25 14:26:32,221 - nonCommerce - INFO - ********* Started Login Process ************
+2020-02-25 14:26:33,592 - nonCommerce - INFO - ********* Login Failed ************
